@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  background: grey;
+  overflow-x: hidden;
+}
+
+.card {
+  width: 20rem;
+  padding: 10px;
+  margin: 5px 10px;
+  height: 26rem;
+}
+
+header {
+  background-color: #ECF0F1;
+}
