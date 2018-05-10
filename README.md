@@ -3,8 +3,9 @@ Using a card component from the Bootstrap 4 library plus a little custom CSS. Ut
 the NEWS API techcrunch top headlines.
 [NEWS API](https://newsapi.org/) - API used   
 [Bootstarp 4](https://getbootstrap.com/) - Bootstrap 4
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).  
+  
+![alt text](https://github.com/abenjamin1313/react-news-feed-api-example/blob/master/images/example.png)
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
