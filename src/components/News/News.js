@@ -32,7 +32,7 @@ class News extends Component {
     }
     render() {
         return (
-            <div className="row">
+            <div className="col-md-4">
                 {this.renderItem()}
             </div>
         );

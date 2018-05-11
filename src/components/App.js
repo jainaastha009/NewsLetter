@@ -13,6 +13,10 @@ class App extends Component {
       news2: {
         type: 'everything',
         query: 'domains=techcrunch.com&language=en'
+      },
+      news3: {
+        type: 'top-headlines',
+        query: 'sources=bbc-news'
       }
     }
   }
@@ -26,9 +30,11 @@ class App extends Component {
           <p>News feed API is "fetched()" and converted.</p>
         </header>
         <div className="container">
-          
-          <News news={this.state.news1} />
-          <News news={this.state.news2} />
+          <div className="row"> 
+            <News news={this.state.news1} />
+            <News news={this.state.news2} />
+            <News news={this.state.news3} />
+          </div>
         </div>
         
       </div>
