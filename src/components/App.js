@@ -26,7 +26,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Top headlines from TechCrunch</h1>
+          <h2 className="App-title">Top headlines from TechCrunch and BBC News</h2>
           <p>News feed API is "fetched()" and converted.</p>
         </header>
         <div className="container">
